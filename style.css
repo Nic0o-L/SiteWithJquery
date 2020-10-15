@@ -146,4 +146,5 @@ header h1 {
     border: 2px solid #d70000;
     font-size: 22px;
     cursor: pointer;
+    opacity: 0.9;
 }
